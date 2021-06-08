@@ -90,7 +90,7 @@ indexbtn:
   enable: true
   name: Github
   icon: fa-github-alt
-  url: https://github.com/godweiyang
+  url: https://github.com/suifengdada
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
