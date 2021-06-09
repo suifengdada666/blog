@@ -1,13 +1,13 @@
 ---
 title: about
-date: 2019-07-19 16:41:10
+date: 2021-06-9 11:35:10
 type: "about"
 layout: "about"
 mathjax: true
 ---
 
 
-## CV
+<!-- ## CV
 [中文版](/medias/files/cv-zh.pdf)
 [English Version](/medias/files/cv-en.pdf)
 
@@ -82,4 +82,4 @@ suifengdada
 * <b>QQ 技术交流群</b>
 864832264
 
-![](/medias/contact.jpg)
+![](/medias/contact.jpg) -->
