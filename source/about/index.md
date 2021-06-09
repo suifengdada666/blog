@@ -7,9 +7,9 @@ mathjax: true
 ---
 
 ## 研究方向
-主要研究**成分句法分析、依存句法分析、机器翻译**等方向，
-对**序列标注、语言模型、实体关系抽取、迁移学习**等方向也感兴趣。
-<!-- ## CV
+系统分析，性能优化，基础
+<!-- 对**序列标注、语言模型、实体关系抽取、迁移学习**等方向也感兴趣。
+## CV
 [中文版](/medias/files/cv-zh.pdf)
 [English Version](/medias/files/cv-en.pdf)
 
@@ -82,6 +82,6 @@ suifengdada@gmail.com
 * <b>微信</b>
 suifengdada
 * <b>QQ 技术交流群</b>
-864832264
+864832264 -->
 
-![](/medias/contact.jpg) -->
+<!-- ![](/medias/contact.jpg) -->

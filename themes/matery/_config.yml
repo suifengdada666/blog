@@ -97,10 +97,15 @@ indexbtn:
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
   qq: 1419378497
-  github: suifengdada
-  weibo: suifengdada
-  email: suifengdada@gmail.com
-  zhihu: suifengdada
+  github: suifengdada666
+  weibo: 
+  email: 
+  zhihu: 
+  # qq: 1419378497
+  # github: suifengdada
+  # weibo: suifengdada
+  # email: suifengdada@gmail.com
+  # zhihu: suifengdada
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
@@ -165,12 +170,9 @@ text:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar:
-  career:
-  introduction:
-  # avatar: /medias/avatars/avatar.jpg
-  # career: 华东师范大学 | 计算机科学与技术 | AntNLP
-  # introduction: 我是华东师范大学计算机科学与技术专业2018级硕士研究生。直研进入本校计算机系攻读硕士，研究方向是深度学习与自然语言处理。我们实验室是AntNLP，欢迎大家报考！欢迎关注我的微信公众号「算法码上来」，干货每天不错过！
+  avatar: /medias/logo.png
+  career: 字节跳动 
+  introduction: 系统分析|性能优化|安卓基础技术|内核芯片
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
