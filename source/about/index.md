@@ -5,9 +5,9 @@ type: "about"
 layout: "about"
 mathjax: true
 ---
-
 ## 研究方向
 系统分析 | 性能优化 | 基础技术 ｜ 内核芯片
+电话：15626013295
 <!-- 对**序列标注、语言模型、实体关系抽取、迁移学习**等方向也感兴趣。
 ## CV
 [中文版](/medias/files/cv-zh.pdf)
