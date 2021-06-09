@@ -171,7 +171,7 @@ text:
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
   avatar: /medias/logo.png
-  career: 字节跳动 
+  career:  
   introduction: 系统分析|性能优化|安卓基础技术|内核芯片
 
 # config my projects informations in about page.

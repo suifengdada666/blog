@@ -16,7 +16,7 @@ layout: "contact"
 * **头像：**你的头像地址
 
 例如我的博客友链，大家可以加到自己博客里哦：
-* **名称：**suifengdada
+* **名称：**随风达达
 * **地址：**https://suifengdada.com
 * **简介：**基础技术 系统分析 内核芯片
-* **头像：**https://suifengdada.com/medias/avatars/avatar.jpg
+* **头像：**https://suifengdada.com/medias/logo.png
