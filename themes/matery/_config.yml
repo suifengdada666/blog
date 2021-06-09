@@ -97,10 +97,10 @@ indexbtn:
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
   qq: 792321264
-  github: godweiyang
-  weibo: godweiyang
-  email: godweiyang@gmail.com
-  zhihu: godweiyang
+  github: suifengdada
+  weibo: suifengdada
+  email: suifengdada@gmail.com
+  zhihu: suifengdada
 
 # Whether to activate the Post TOC, and Configure which title types are supported by TOC support.
 # You can add `toc: false` to the Front-matter of a post to turn off the TOC.
@@ -119,7 +119,7 @@ code:
 # 是否激活文章末尾的打赏功能，默认激活（你替换为的你自己的微信、支付宝二维码图片、或者使用网络图片也可以）.
 reward:
   enable: true
-  title: 写作不易，客官能否打赏一杯奶茶？
+  title: 天凉了，客官可否打赏一杯奶茶
   wechat: /medias/reward/wechat.png
   alipay: /medias/reward/alipay.jpg
 
@@ -181,7 +181,7 @@ myProjects:
     hexo-matery-modified:
       icon: fa-meetup
       iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
-      url: https://github.com/godweiyang/hexo-matery-modified
+      url: https://github.com/suifengdada/hexo-matery-modified
       desc: 我的个性化配置过的博客源码，即下即用。
     Span-Linearization-Parser:
         icon: fa-database
@@ -191,7 +191,7 @@ myProjects:
     ECNU-BeamerTemplate:
         icon: fa-file-text-o
         iconBackground: 'linear-gradient(to bottom right, #29B6F6 0%, #1E88E5 100%)'
-        url: https://github.com/godweiyang/ECNU_BeamerTemplate
+        url: https://github.com/suifengdada/ECNU_BeamerTemplate
         desc: 基于Latex Beamer的华东师范大学PPT模板。
 
 # config my skills informations in about page.
@@ -243,12 +243,12 @@ postCalendar: true
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
   enable: true
-  owner: godweiyang
-  repo: godweiyang.github.io
+  owner: suifengdada
+  repo: suifengdada.github.io
   oauth:
     clientId: 查教程获取
     clientSecret: 查教程获取
-  admin: godweiyang
+  admin: suifengdada
 
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
@@ -290,7 +290,7 @@ valine:
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
   enable: true
-  url: https://github.com/godweiyang/hexo-matery-modified
+  url: https://github.com/suifengdada666/blog.git
   title: Fork Me
 
 # The password verification feature of read post. To use this feature,
