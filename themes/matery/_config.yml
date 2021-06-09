@@ -90,13 +90,13 @@ indexbtn:
   enable: true
   name: Github
   icon: fa-github-alt
-  url: https://github.com/suifengdada
+  url: https://github.com/suifengdada666
 
 # The configurations of the second line of home banner
 # icon/button will not show up if you leave the corresponding socialLink empty
 # 首页 banner 中的第二行个人信息配置，留空即不启用
 socialLink:
-  qq: 792321264
+  qq: 1419378497
   github: suifengdada
   weibo: suifengdada
   email: suifengdada@gmail.com
@@ -412,7 +412,7 @@ reprint:
 
 # 雪花特效
 snow:
-  enable: true
+  enable: false
 
 baidu_push: true
 
