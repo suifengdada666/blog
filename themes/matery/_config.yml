@@ -246,10 +246,10 @@ postCalendar: true
 gitalk:
   enable: true
   owner: suifengdada666
-  repo: suifengdada666.github.io
+  repo: gitment-comments
   oauth:
-    clientId: acd1db5489a7676fb85e
-    clientSecret: 0dca1fcac87181278278bc7e25258898379a07a0
+    clientId: a0d8cc24d01d29342cac
+    clientSecret: 5dd046af3a4eb309a1e259cb036980ded277f818
   admin: suifengdada666
 
 # the Gitment config，default disabled
