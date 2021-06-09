@@ -5,7 +5,7 @@
 # Site
 title: 随风达达的博客
 subtitle: 技术将以最自然的方式跟世界交互
-description: 计算机科学与技术
+description: 
 keywords: "系统分析 性能优化 基础技术 内核芯片"
 author: 随风达达
 language: zh-CN
@@ -83,7 +83,7 @@ sitemap:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 12
+  per_page: 20
   order_by: -date
   
 # Category & Tag
@@ -100,7 +100,7 @@ time_format: HH:mm:ss
 
 # Pagination
 ## Set per_page to 0 to disable pagination
-per_page: 12
+per_page: 20
 pagination_dir: page
 
 # Extensions
