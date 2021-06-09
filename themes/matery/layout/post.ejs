@@ -30,7 +30,20 @@
 
 </main>
 
+
+
 <% if (theme.mathjax.enable && page.mathjax) { %>
+
+<!--PC版-->
+<div id="SOHUCS" sid="test"></div>
+<script charset="utf-8" type="text/javascript" src="https://cy-cdn.kuaizhan.com/upload/changyan.js" ></script>
+<script type="text/javascript">
+window.changyan.api.config({
+appid: 'cyvuV2NV7',
+conf: 'prod_152b51d9b76214d16b689ada9fc20144'
+});
+</script>
+
 <script src="<%- theme.mathjax.cdn %>"></script>
 <script>
     MathJax.Hub.Config({

@@ -244,13 +244,13 @@ postCalendar: true
 # the Gitalk config，default disabled
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
-  enable: true
+  enable: false
   owner: suifengdada666
   repo: gitment-comments
   oauth:
     clientId: a0d8cc24d01d29342cac
     clientSecret: 5dd046af3a4eb309a1e259cb036980ded277f818
-  admin: suifengdada666
+  admin: 
 
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
@@ -279,8 +279,8 @@ livere:
 # Valine 评论模块的配置，默认为不激活，如要使用，就请激活该配置项，并设置 appId 和 appKey.
 valine:
   enable: true
-  appId: 查教程获取
-  appKey: 查教程获取
+  appId: FX7I9mzMk5MxlQMiqPwjUCao-MdYXbMMI
+  appKey: Fhuts3LNTCyp1XVmi9JHvjDx
   notify: false
   verify: false
   visitor: false
