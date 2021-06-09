@@ -245,12 +245,12 @@ postCalendar: true
 # Gitalk 评论模块的配置，默认为不激活
 gitalk:
   enable: true
-  owner: suifengdada
-  repo: suifengdada.github.io
+  owner: suifengdada666
+  repo: suifengdada666.github.io
   oauth:
-    clientId: 查教程获取
-    clientSecret: 查教程获取
-  admin: suifengdada
+    clientId: acd1db5489a7676fb85e
+    clientSecret: 0dca1fcac87181278278bc7e25258898379a07a0
+  admin: suifengdada666
 
 # the Gitment config，default disabled
 # Gitment 评论模块的配置，默认为不激活
