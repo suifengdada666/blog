@@ -13,8 +13,7 @@ categories:
 - 性能优化
 ---
 # Atrace options
-## 
-
+```
 usage: atrace [options] [categories...]
 options include:
   -a appname      enable app-level tracing for a comma separated list of cmdlines; * is a wildcard matching any process
@@ -39,6 +38,6 @@ options include:
                   list the available tracing categories
  -o filename      write the trace to the specified file instead
                     of stdout.
-
+```
 
 
